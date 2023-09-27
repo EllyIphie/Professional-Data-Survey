@@ -6,6 +6,8 @@ The global HR department conducted a survey spanning all regions, with a total o
 
 ![Example Image](ProfDataSurvey.jpg) <br>
 
+Disclaimer : All Datasets is from the Global HR Company for the year 2022 to demonstrate capabilities of PowerBI <br>
+
 # Main Insights:
 
    In the survey of professionals, Python, R, and SQL stood out as the top-rated programming languages, garnering 381, 150, and 10 endorsements, respectively. <br>
