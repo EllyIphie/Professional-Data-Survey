@@ -1,12 +1,10 @@
 # Professional Data Survey
 Data has emerged as the fundamental pillar of innovation and advancement. this stands as the driving catalyst behind well-informed choices, pioneering breakthroughs, and revolutionary technologies.<br>
 This dataset encompasses a survey conducted among professionals in the field of data to gather insights regarding their perspectives and opinions about the profession.<br>
-*Disclaimer : All Datasets is from the Preimer League online scores dataset to demonstrate capabilities of PowerBI* <br>
 The ETL methodology was employed to Extract, Load, and Transform data within Power BI, simplifying intricate technical data into easily understandable narratives tailored for non-technical stakeholders.<br>
 The global HR department conducted a survey spanning all regions, with a total of 630 respondents, comprising 468 males and females, and an average age of 29.87.<br>
 
 ![Example Image](ProfDataSurvey.jpg) <br>
-*Disclaimer : All Datasets is from the Preimer League online scores dataset to demonstrate capabilities of PowerBI* <br>
 
 # Main Insights:
 
