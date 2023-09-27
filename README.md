@@ -8,7 +8,8 @@ The global HR department conducted a survey spanning all regions, with a total o
 
 # Main Insights:
 
-   In the survey of professionals, Python, R, and SQL stood out as the top-rated programming languages, garnering 381, 150, and 10 endorsements, respectively. This trend underscores the increasing need for data-driven expertise.<br>
+   In the survey of professionals, Python, R, and SQL stood out as the top-rated programming languages, garnering 381, 150, and 10 endorsements, respectively. <br>
+   This trend underscores the increasing need for data-driven expertise.<br>
   📌   An astounding 47.14% underscores the significant role financial stability and advancement play in of respondents in the survey cited "Higher Salary" as their primary motivation for pursuing new job opportunities. Meanwhile, 20.16% of participants prioritized "Remote Work," highlighting the growing attraction of flexibility, while closely following behind, 24% emphasized the importance of "Work-Life Balance," signifying its increasing relevance in recent times.<br>
  📌    Average salary by sex: Male and total Female are positively correlated with each other. Male and Female diverged the most when the Salary was 20, when Male were 155 higher than Female.<br>
   📌  Analytics Manager had the highest Average Salary at 326 (30.24%), followed by Analytics Consultant and Manager, Business Intelligence Develop, which tied for second at 188. Analytics Manager topped the Job Title list with 381 (60.4%) of the sample.<br>
